@@ -1,0 +1,39 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "group": "torch",
+    "ingredients": [
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "stick"
+        },
+        {
+            "item": "coal_block"
+        }
+    ],
+    "result": {
+        "count": 32,
+        "item": "torch"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "group": "torch",
+    "ingredients": [
+        {
+            "item": "stick"
+        },
+        {
+            "tag": "coals"
+        }
+    ],
+    "result": {
+        "count": 4,
+        "item": "torch"
+    },
+    "show_notification": true
+}
