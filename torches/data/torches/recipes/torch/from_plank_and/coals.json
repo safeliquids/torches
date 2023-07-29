@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "group": "torch",
+    "key": {},
+    "ingredients": [
+        {
+            "tag": "coals"
+        },
+        {
+            "tag": "coals"
+        },
+        {
+            "tag": "planks"
+        }
+    ],
+    "result": {
+        "count": 8,
+        "item": "torch"
+    },
+    "show_notification": true
+}
