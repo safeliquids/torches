@@ -1,0 +1,21 @@
+{
+    "criteria": {
+        "x":{
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "torches:coal_block",
+            "torches:coal/from_charcoal",
+            "torches:coal/from_coal_block",
+            "torches:charcoal_from_coal",
+            "torches:torch/from_log_and/coal_block",
+            "torches:torch/from_log_and/coals",
+            "torches:torch/from_plank_and/coal_block",
+            "torches:torch/from_plank_and/coals",
+            "torches:torch/from_stick_and/coal_block",
+            "torches:torch/from_stick_and/coals"
+        ]
+    }
+}
