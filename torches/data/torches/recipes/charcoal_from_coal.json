@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        {
+            "item": "coal"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "charcoal"
+    },
+    "show_notification": true
+}
