@@ -16,6 +16,18 @@
             {
                 "namespace": "minecraft",
                 "path":"recipes/coal"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/recipes/decorations/torch.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/recipes/building_blocks/coal_block.json"
+            },
+            {
+                "namespace": "minecraft",
+                "path": "advancements/recipes/misc/coal.json"
             }
         ]
     }
