@@ -7,15 +7,15 @@
         "block": [
             {
                 "namespace": "minecraft",
-                "path":"recipes/torch"
+                "path":"recipes/torch.json"
             },
             {
                 "namespace": "minecraft",
-                "path":"recipes/coal_block"
+                "path":"recipes/coal_block.json"
             },
             {
                 "namespace": "minecraft",
-                "path":"recipes/coal"
+                "path":"recipes/coal.json"
             },
             {
                 "namespace": "minecraft",
