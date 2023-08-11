@@ -14,7 +14,7 @@ ie. needing to craft logs into sticks and coal blocks to coal.
 *A notable side effect* is that one coal block is now equivalent to eight
 pieces of coal instead of the usual nine (since a log can also be crafted into
 eight sticks and not nine.) Some other coal-related recipes are also added, [see
-below](#New-coal-recipes-(shapeless)).
+below](#new-coal-recipes-shapeless).
 
 ## List of new recipes
 
