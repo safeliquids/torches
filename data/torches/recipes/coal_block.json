@@ -29,7 +29,7 @@
     ],
     "result": {
         "count": 1,
-        "item": "coal_block"
+        "id": "coal_block"
     },
     "show_notification": true
 }

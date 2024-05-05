@@ -13,7 +13,7 @@
     ],
     "result": {
         "count": 32,
-        "item": "torch"
+        "id": "torch"
     },
     "show_notification": true
 }

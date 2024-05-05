@@ -8,7 +8,7 @@
     ],
     "result": {
         "count": 1,
-        "item": "charcoal"
+        "id": "charcoal"
     },
     "show_notification": true
 }

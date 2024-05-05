@@ -9,7 +9,7 @@
     ],
     "result": {
         "count": 8,
-        "item": "coal"
+        "id": "coal"
     },
     "show_notification": true
 }
