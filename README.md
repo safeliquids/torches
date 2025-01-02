@@ -1,8 +1,8 @@
 # Torches
 
 Torches is a datapack for Minecraft: Java Edition that simplifies torch
-crafting. The main branch is compatible with Minecraft version `1.21.1`.
-For other versions see tags, eg. `1.19-1.20.4`.
+crafting. The main branch is compatible with Minecraft versions from `1.21.2`
+to `1.21.4` inclusive. For other versions see tags, eg. `1.19-1.20.4`.
 
 ## About changes to recipes
 
