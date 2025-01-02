@@ -1,9 +1,9 @@
 {
     "pack":{
-        "pack_format":41,
+        "pack_format":48,
         "supported_formats": {
-            "min_inclusive": 41,
-            "max_inclusive": 41
+            "min_inclusive": 48,
+            "max_inclusive": 48
         },
         "description":"Torch crafting is less of a chore. Also, less coal per block."
     },
@@ -11,27 +11,27 @@
         "block": [
             {
                 "namespace": "minecraft",
-                "path":"recipes/torch.json"
+                "path":"recipe/torch.json"
             },
             {
                 "namespace": "minecraft",
-                "path":"recipes/coal_block.json"
+                "path":"recipe/coal_block.json"
             },
             {
                 "namespace": "minecraft",
-                "path":"recipes/coal.json"
+                "path":"recipe/coal.json"
             },
             {
                 "namespace": "minecraft",
-                "path": "advancements/recipes/decorations/torch.json"
+                "path": "advancement/recipes/decorations/torch.json"
             },
             {
                 "namespace": "minecraft",
-                "path": "advancements/recipes/building_blocks/coal_block.json"
+                "path": "advancement/recipes/building_blocks/coal_block.json"
             },
             {
                 "namespace": "minecraft",
-                "path": "advancements/recipes/misc/coal.json"
+                "path": "advancement/recipes/misc/coal.json"
             }
         ]
     }
