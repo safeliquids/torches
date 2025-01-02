@@ -2,30 +2,14 @@
     "type": "crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        }
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals"
     ],
     "result": {
         "count": 1,

@@ -3,9 +3,7 @@
     "category": "misc",
     "group": "coal",
     "ingredients": [
-        {
-            "item": "coal_block"
-        }
+        "coal_block"
     ],
     "result": {
         "count": 8,

@@ -4,21 +4,11 @@
     "group": "torch",
     "key": {},
     "ingredients": [
-        {
-            "item": "coal_block"
-        },
-        {
-            "tag": "planks"
-        },
-        {
-            "tag": "planks"
-        },
-        {
-            "tag": "planks"
-        },
-        {
-            "tag": "planks"
-        }
+        "coal_block",
+        "#planks",
+        "#planks",
+        "#planks",
+        "#planks"
     ],
     "result": {
         "count": 32,

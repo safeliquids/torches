@@ -2,9 +2,7 @@
     "type": "crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        {
-            "item": "coal"
-        }
+        "coal"
     ],
     "result": {
         "count": 1,

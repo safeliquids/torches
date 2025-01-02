@@ -3,12 +3,8 @@
     "category": "misc",
     "group": "torch",
     "ingredients": [
-        {
-            "item": "stick"
-        },
-        {
-            "tag": "coals"
-        }
+        "stick",
+        "#coals"
     ],
     "result": {
         "count": 4,

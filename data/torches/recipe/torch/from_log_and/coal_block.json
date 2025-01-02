@@ -4,12 +4,8 @@
     "group": "torch",
     "key": {},
     "ingredients": [
-        {
-            "item": "coal_block"
-        },
-        {
-            "tag": "logs"
-        }
+        "coal_block",
+        "#logs"
     ],
     "result": {
         "count": 32,

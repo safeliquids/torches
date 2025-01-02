@@ -4,33 +4,15 @@
     "group": "torch",
     "key": {},
     "ingredients": [
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "logs"
-        }
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#coals",
+        "#logs"
     ],
     "result": {
         "count": 32,

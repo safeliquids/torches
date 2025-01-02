@@ -4,15 +4,9 @@
     "group": "torch",
     "key": {},
     "ingredients": [
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "coals"
-        },
-        {
-            "tag": "planks"
-        }
+        "#coals",
+        "#coals",
+        "#planks"
     ],
     "result": {
         "count": 8,

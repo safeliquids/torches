@@ -3,33 +3,15 @@
     "category": "misc",
     "group": "torch",
     "ingredients": [
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "stick"
-        },
-        {
-            "item": "coal_block"
-        }
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "stick",
+        "coal_block"
     ],
     "result": {
         "count": 32,
