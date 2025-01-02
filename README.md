@@ -37,3 +37,23 @@ below](#new-coal-recipes-shapeless).
 | 8 coal or charcoal | 1 coal block |
 | 1 coal | 1 charcoal |
 | 1 charcoal | 1 coal |
+
+## Installation
+
+To install the datapack first download the repository as a zip archive. You can
+obtain the latest version under Code > Download ZIP. For older versions check
+[Releases](https://github.com/safeliquids/torches/releases) and download the zip
+under Assets > Source code (zip).
+
+Then extract the zip inside the `datapacks` folder in your world folder. The
+result should look something like this.
+```
+my-world/
+  - datapacks/
+    - torches-main/
+      - data/
+      - pack.mcmeta
+      - README.md
+  - level.dat
+  - (... lots of other folders and files)
+```
