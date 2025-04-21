@@ -8,7 +8,7 @@
         "#logs"
     ],
     "result": {
-        "count": 32,
+        "count": 36,
         "id": "torch"
     },
     "show_notification": true
